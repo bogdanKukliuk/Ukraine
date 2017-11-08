@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteka", "Biblioteka\Biblioteka.csproj", "{FD9C080E-AA0B-4D63-A9F5-286260AC4F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Context", "Context\Context.csproj", "{1853A9F3-3199-4EE7-93FF-41A9A91B96DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD9C080E-AA0B-4D63-A9F5-286260AC4F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9C080E-AA0B-4D63-A9F5-286260AC4F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9C080E-AA0B-4D63-A9F5-286260AC4F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9C080E-AA0B-4D63-A9F5-286260AC4F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1853A9F3-3199-4EE7-93FF-41A9A91B96DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1853A9F3-3199-4EE7-93FF-41A9A91B96DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1853A9F3-3199-4EE7-93FF-41A9A91B96DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1853A9F3-3199-4EE7-93FF-41A9A91B96DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
