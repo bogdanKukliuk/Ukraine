@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Context.Tables;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -9,6 +10,7 @@ namespace Context
 {
     public class User
     {
+
         [Key]
         public int Id { get; set; }
         [Required, MaxLength(length: 255)]
@@ -21,5 +23,6 @@ namespace Context
         public string Email { get; set; }
         [Required, MaxLength(length: 228)]
         public string Password { get; set; }
+        public virtual ICollection<InfoBook> InfoBooks { get; set; }
     }
 }

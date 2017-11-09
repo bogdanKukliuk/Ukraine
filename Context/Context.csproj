@@ -53,9 +53,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EFContext.cs" />
-    <Compile Include="Migrations\201711081540033_dorou.cs" />
-    <Compile Include="Migrations\201711081540033_dorou.Designer.cs">
-      <DependentUpon>201711081540033_dorou.cs</DependentUpon>
+    <Compile Include="Migrations\201711091404160_Kotel.cs" />
+    <Compile Include="Migrations\201711091404160_Kotel.Designer.cs">
+      <DependentUpon>201711091404160_Kotel.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
@@ -69,8 +69,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201711081540033_dorou.resx">
-      <DependentUpon>201711081540033_dorou.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201711091404160_Kotel.resx">
+      <DependentUpon>201711091404160_Kotel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

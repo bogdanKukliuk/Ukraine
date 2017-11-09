@@ -10,3 +10,15 @@ c:\users\user.step.001\documents\visual studio 2015\Projects\Biblioteka\Bibliote
 c:\users\user.step.001\documents\visual studio 2015\Projects\Biblioteka\Biblioteka\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\user.step.001\documents\visual studio 2015\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
 c:\users\user.step.001\documents\visual studio 2015\Projects\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
+D:\Slava Ukraine\Ukraine\Biblioteka\bin\Debug\Biblioteka.exe.config
+D:\Slava Ukraine\Ukraine\Biblioteka\bin\Debug\Biblioteka.exe
+D:\Slava Ukraine\Ukraine\Biblioteka\bin\Debug\Biblioteka.pdb
+D:\Slava Ukraine\Ukraine\Biblioteka\bin\Debug\EntityFramework.dll
+D:\Slava Ukraine\Ukraine\Biblioteka\bin\Debug\EntityFramework.SqlServer.dll
+D:\Slava Ukraine\Ukraine\Biblioteka\bin\Debug\EntityFramework.xml
+D:\Slava Ukraine\Ukraine\Biblioteka\bin\Debug\EntityFramework.SqlServer.xml
+D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.Properties.Resources.resources
+D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.csproj.GenerateResource.Cache
+D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.exe
+D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.pdb

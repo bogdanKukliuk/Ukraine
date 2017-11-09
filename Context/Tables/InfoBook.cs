@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Context.Tables;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -17,5 +18,6 @@ namespace Context.Tables
         public string NameAuthor { get; set; }
         [Required]
         public int Price { get; set; }
+        public virtual ICollection<User> Users { get; set; }
     }
 }

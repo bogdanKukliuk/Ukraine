@@ -10,3 +10,15 @@ c:\users\user.step.001\documents\visual studio 2015\Projects\Biblioteka\Context\
 c:\users\user.step.001\documents\visual studio 2015\Projects\Biblioteka\Context\obj\Debug\Context.csprojResolveAssemblyReference.cache
 c:\users\user.step.001\documents\visual studio 2015\Projects\Biblioteka\Context\obj\Debug\Context.Migrations.dorou.resources
 c:\users\user.step.001\documents\visual studio 2015\Projects\Biblioteka\Context\obj\Debug\Context.csproj.GenerateResource.Cache
+D:\Slava Ukraine\Ukraine\Context\bin\Debug\Context.exe.config
+D:\Slava Ukraine\Ukraine\Context\obj\Debug\Context.exe
+D:\Slava Ukraine\Ukraine\Context\obj\Debug\Context.pdb
+D:\Slava Ukraine\Ukraine\Context\obj\Debug\Context.csprojResolveAssemblyReference.cache
+D:\Slava Ukraine\Ukraine\Context\bin\Debug\Context.exe
+D:\Slava Ukraine\Ukraine\Context\bin\Debug\Context.pdb
+D:\Slava Ukraine\Ukraine\Context\bin\Debug\EntityFramework.dll
+D:\Slava Ukraine\Ukraine\Context\bin\Debug\EntityFramework.SqlServer.dll
+D:\Slava Ukraine\Ukraine\Context\bin\Debug\EntityFramework.xml
+D:\Slava Ukraine\Ukraine\Context\bin\Debug\EntityFramework.SqlServer.xml
+D:\Slava Ukraine\Ukraine\Context\obj\Debug\Context.Migrations.Kotel.resources
+D:\Slava Ukraine\Ukraine\Context\obj\Debug\Context.csproj.GenerateResource.Cache

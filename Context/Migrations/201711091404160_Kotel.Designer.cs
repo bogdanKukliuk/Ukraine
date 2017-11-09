@@ -7,13 +7,13 @@ namespace Context.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.2.0-61023")]
-    public sealed partial class dorou : IMigrationMetadata
+    public sealed partial class Kotel : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(dorou));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(Kotel));
         
         string IMigrationMetadata.Id
         {
-            get { return "201711081540033_dorou"; }
+            get { return "201711091404160_Kotel"; }
         }
         
         string IMigrationMetadata.Source
