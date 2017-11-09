@@ -10,11 +10,22 @@ using System.Windows.Forms;
 
 namespace Biblioteka
 {
-    public partial class Form1 : Form
+    public partial class Login : Form
     {
-        public Form1()
+        public Login()
         {
             InitializeComponent();
+        }
+
+        private void btnSigIn_Click(object sender, EventArgs e)
+        {
+            SigInForm dlg = new SigInForm();
+            dlg.ShowDialog();
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

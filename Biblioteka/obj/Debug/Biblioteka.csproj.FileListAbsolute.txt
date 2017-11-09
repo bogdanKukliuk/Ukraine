@@ -22,3 +22,7 @@ D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.Properties.Resources.re
 D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.csproj.GenerateResource.Cache
 D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.exe
 D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.pdb
+D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.Login.resources
+D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.SigInForm.resources
+D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.MainForm.resources
+D:\Slava Ukraine\Ukraine\Biblioteka\obj\Debug\Biblioteka.ReturnForm.resources
