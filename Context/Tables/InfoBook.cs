@@ -19,5 +19,6 @@ namespace Context.Tables
         [Required]
         public int Price { get; set; }
         public virtual ICollection<User> Users { get; set; }
+        public virtual ICollection<librarian> librarians { get; set; }
     }
 }

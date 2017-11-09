@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +24,8 @@ namespace Context
         public string Email { get; set; }
         [Required, MaxLength(length: 228)]
         public string Password { get; set; }
+        public librarian librarian { get; set; }
         public virtual ICollection<InfoBook> InfoBooks { get; set; }
+        
     }
 }

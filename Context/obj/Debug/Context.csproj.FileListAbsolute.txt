@@ -20,5 +20,5 @@ D:\Slava Ukraine\Ukraine\Context\bin\Debug\EntityFramework.dll
 D:\Slava Ukraine\Ukraine\Context\bin\Debug\EntityFramework.SqlServer.dll
 D:\Slava Ukraine\Ukraine\Context\bin\Debug\EntityFramework.xml
 D:\Slava Ukraine\Ukraine\Context\bin\Debug\EntityFramework.SqlServer.xml
-D:\Slava Ukraine\Ukraine\Context\obj\Debug\Context.Migrations.Kotel.resources
+D:\Slava Ukraine\Ukraine\Context\obj\Debug\Context.Migrations.dodik.resources
 D:\Slava Ukraine\Ukraine\Context\obj\Debug\Context.csproj.GenerateResource.Cache
